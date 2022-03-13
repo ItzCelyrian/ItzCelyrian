@@ -21,7 +21,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
-    <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/> </a> 
+    <a href="https://www.lua.org/" target="_blank"> <img src="https://i.imgur.com/If2VIGT.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
