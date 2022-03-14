@@ -1,8 +1,23 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/8QlGGfB.png" height="175px"/></a
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm ItzCelyrian</h1>
 <h3 align="center">I'm a Developer from Austria.</h3>
 
+<br>
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=ItzCelyrian&style=flat-square&color=blue" alt="">
+</p>
+
+<p align="center"> 
+    <a href="https://www.discordapp.com/users/451821778029772829">
+        <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="ItzCelyrian#0001"/>
+    </a>
+</p>
+
+<p align="center"> <a href="https://github.com/ItzCelyrian?tab=followers"><img src="https://img.shields.io/github/followers/ItzCelyrian?label=Followers&style=social" alt="GitHub Badge"></a></p>
+
+<br>
 
 ## 🙋‍♂️ About Me
 
@@ -20,6 +35,7 @@
     <a href="https://www.lua.org/" target="_blank"> <img src="https://i.imgur.com/If2VIGT.png"/> </a> 
     <a href="https://www.w3schools.com/cs/index.php" target=_blank> <img src="https://i.imgur.com/Q0BvOKU.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
+    <a href="https://visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -60,6 +76,3 @@
 <a href = "https://linktr.ee/ItzCelyrian"><img src="https://img.icons8.com/color/48/000000/linktree.png"/></a>
 
 </p>
-
-## ❤ Followers
-<a href="https://github.com/ItzCelyrian?tab=followers"><img src="https://img.shields.io/github/followers/ItzCelyrian?label=Followers&style=social" alt="GitHub Badge"></a>
