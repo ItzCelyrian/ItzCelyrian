@@ -5,17 +5,14 @@
 
 <br>
 
+
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ItzCelyrian&style=flat-square&color=blue" alt="">
+    <a href="https://www.discordapp.com/users/451821778029772829"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="ItzCelyrian#0001"/></a>
+    <a href="https://github.com/ItzCelyrian?tab=followers"><img src="https://img.shields.io/github/followers/ItzCelyrian?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<p align="center"> 
-    <a href="https://www.discordapp.com/users/451821778029772829">
-        <img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="ItzCelyrian#0001"/>
-    </a>
-</p>
 
-<p align="center"> <a href="https://github.com/ItzCelyrian?tab=followers"><img src="https://img.shields.io/github/followers/ItzCelyrian?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
 <br>
 
@@ -31,9 +28,8 @@
 
 ## 🚀 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=lua,cs,mysql,bots,dotnet,stackoverflow,vscode,linux,md,ps,pr,ae,ai,autocad,bash)
+![](https://skillicons.dev/icons?i=lua,mysql,vscode,linux,md,autocad,bash,stackoverflow,bots,dotnet,cs,pr,ae,ps,ai)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
 <p align="center">
