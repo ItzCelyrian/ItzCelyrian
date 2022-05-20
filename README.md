@@ -28,7 +28,7 @@
 
 ## 🚀 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=lua,mysql,vscode,linux,md,autocad,bash,stackoverflow,bots,dotnet,cs,pr,ae,ps,ai)
+![](https://skillicons.dev/icons?i=lua,python,php,vue,mysql,vscode,linux,md,autocad,bash,stackoverflow,javascript,git,html,css,bots,dotnet,cs,pr,ae,ps,ai)
 
 <br/>
 
