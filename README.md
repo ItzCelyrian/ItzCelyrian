@@ -24,8 +24,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
-- 📫 How to reach me **itzcelyrian@gmail.com**
-
 ## 🚀 Languages and Tools:
 
 ![](https://skillicons.dev/icons?i=lua,python,github,php,webpack,nodejs,vue,vite,mysql,vscode,visualstudio,linux,md,autocad,bash,stackoverflow,javascript,git,html,css,typescript,docker,discord,bots,dotnet,cs,pr,ae,ps,ai)
