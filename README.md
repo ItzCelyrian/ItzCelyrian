@@ -18,9 +18,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[CrownX.de](https://CrownX.de)**
+- 🔭 I’m currently working for **[Dreamsz RP](https://discord.gg/VvnQMt2aVd)**
 
-- 🌱 I’m currently learning **Lua / C# / MySQL.**
+- 🌱 I’m currently working with **Lua / C# / MySQL / Ubuntu.**
 
 - 👯 I’m looking to collaborate on **OpenSource FiveM Projects**
 
