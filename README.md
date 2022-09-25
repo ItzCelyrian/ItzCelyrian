@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working for **[Dreamsz RP](https://discord.gg/VvnQMt2aVd)**
+- 🔭 I’m currently working for **[New York Online](https://discord.gg/NYO)**
 
 - 🌱 I’m currently working with **Lua / C# / MySQL / Ubuntu.**
 
