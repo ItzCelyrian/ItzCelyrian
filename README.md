@@ -39,15 +39,12 @@
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://static.cdnlogo.com/logos/c/27/c.svg", height="50px", width="50px"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/m/78/mysql.svg", height="50px", width="50px"/>
+    <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://static.cdnlogo.com/logos/u/89/ubuntu.svg", height="50px", width="50px"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/g/69/github-icon.svg", height="50px", width="50px"/>
-    </a>
     <a href="https://stackoverflow.com" target="_blank">
         <img src="https://static.cdnlogo.com/logos/s/63/stack-overflow.svg", height="50px", width="50px"/>
     </a>
@@ -57,8 +54,8 @@
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg", height="50px", width="50px"/>
     </a>
-    <a href="https://www.markdownguide.org/getting-started/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/m/92/markdown.svg", height="50px", width="50px"/>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://static.cdnlogo.com/logos/m/78/mysql.svg", height="50px", width="50px"/>
     </a>
 </p>
 
