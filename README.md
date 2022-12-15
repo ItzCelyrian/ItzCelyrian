@@ -70,19 +70,24 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/ItzCelyrian/github-readme-stats"><img alt="ItzCelyrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItzCelyrian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ItzCelyrian/github-readme-stats"><img alt="ItzCelyrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzCelyrian&langs_count=8&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+    <a href="https://github.com/ItzCelyrian/github-readme-stats"><img alt="ItzCelyrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItzCelyrian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
+  <a href="https://github.com/ItzCelyrian/github-readme-stats"><img alt="ItzCelyrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzCelyrian&langs_count=8&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+    <br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+<br/>
+<br/>
+
+<p align=center>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzCelyrian&theme=github_dark) 
+
+</p>
 
 <br/>
 <br/>
 
-<a href="https://github.com/ItzCelyrian/github-readme-activity-graph"><img alt="ItzCelyrian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ItzCelyrian&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## Have a Nice day, here is some cake. 🍰
-
+<p align="center">
+ <i><b>Have a Nice day, here is some cake. 🍰</b></i>
+</p>
 </p>
