@@ -41,6 +41,9 @@
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://static.cdnlogo.com/logos/u/89/ubuntu.svg", height="50px", width="50px"/>
     </a>
+    <a href="https://swift.org/" target="_blank">
+        <img src="https://static.cdnlogo.com/logos/s/13/swift.svg", height="50px", width="50px"/>
+    </a>
 </p>
 
 <p align="center">
