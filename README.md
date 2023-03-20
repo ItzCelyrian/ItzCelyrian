@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning: **[.NET MAUI](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-7.0)**
+- 🔭 I’m currently learning: **[Swift](https://swift.org)**
 
 - 🌱 My main focus lies within: **Lua / C# / XAML / MySQL** on **Windows / Ubuntu 22.04 LTS**
 
