@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning: **[Swift](https://swift.org)**
+- 🔭 I’m currently advancing in: **[Lua](https://lua.org)**
 
 - 🌱 My main focus lies within: **Swift / Lua / C# / XAML / MySQL** on **Windows / Ubuntu 22.04 LTS**
 
