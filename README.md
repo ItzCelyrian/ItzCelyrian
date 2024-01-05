@@ -1,95 +1,69 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/8QlGGfB.png" height="175px"/></a>
+# ItzCelyrian's Developer Profile
 
-<h1 align="center">Hello I am ItzCelyrian</h1>
+## About Me
+Hello! My name is ItzCelyrian. I'm a dedicated developer primarily focused on Fivem/FXServer projects. My expertise lies in Lua, and I'm currently advancing my skills in Lua (FiveM) and MariaDB.
 
-<br>
+## Skills and Tools
+I have a diverse set of tools and languages at my disposal, which include:
+
+### Languages
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.cdnlogo.com/logos/b/31/bash.svg" height="25px" width="25px"/> **Bash**</a>: UNIX Terminal Scripting.
+
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0" target="_blank"><img src="https://www.cdnlogo.com/logos/c/27/c.svg" height="25px" width="25px"/> **C#**</a>: Windows Desktop Applications.
+
+<a href="https://lua.org/" target="_blank"><img src="https://www.cdnlogo.com/logos/l/50/lua.svg" height="25px" width="25px"/> **Lua**</a>: Specializing in FiveM scripting.
+
+<a href="https://www.python.org/" target="_blank"><img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="25px" width="25px"/> **Python**</a>: Python-Scripting for Diffusing.
+
+<a href="https://swift.org/" target="_blank"><img src="https://static.cdnlogo.com/logos/s/13/swift.svg" height="25px" width="25px"/> **Swift**</a>: Building robust iOS applications.
+
+### Tools
+<a href="https://www.docker.com/" target="_blank"><img src="https://www.cdnlogo.com/logos/d/56/docker.svg" height="25px" width="25px"/> **Docker**</a>: For containerization and app deployment.
+
+<a href="https://traefik.io/traefik/" target="_blank"><img src="https://www.cdnlogo.com/logos/t/39/traefik.svg" height="25px" width="25px"/> **Traefik**</a>: Managing SSL and Reverse Proxy configurations.
 
 
-<p align="center">
-    <a href="https://celyrian.com"><img src="https://komarev.com/ghpvc/?username=ItzCelyrian&style=flat-square&color=green" alt="ItzCelyrian#0001"/></a>
-    <a href="https://github.com/ItzCelyrian?tab=followers"><img src="https://img.shields.io/github/followers/ItzCelyrian?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+### Jetbrains
+<a href="https://www.jetbrains.com/datagrip/" target="_blank"><img src="https://www.cdnlogo.com/logos/d/8/datagrip-icon.svg" height="25px" width="25px"/> **DataGrip**</a>: For SQL Database access.
+
+<a href="https://www.jetbrains.com/dataspell/" target="_blank"><img src="https://seeklogo.com/images/D/dataspell-logo-06435B9CF3-seeklogo.com.png" height="25px" width="25px"/> **DataSpell**</a>: For SQL Data-Management.
+
+<a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/JetBrains_Rider_Icon.svg" height="25px" width="25px"/> **Rider**</a>: My go-to IDE for Modern C# development.
+
+### Databases
+
+<a href="https://mariadb.com/" target="_blank"><img src="https://www.svgrepo.com/show/354037/mariadb-icon.svg" height="25px" width="25px"/> **MariaDB**</a>: Proficient Stable Production Environments.
+
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img src="https://www.cdnlogo.com/logos/m/62/microsoft-sql-server.svg" height="25px" width="25px"/> **MSSQL**</a>: Enterprise Level Redundant Databases.
+
+<a href="https://www.mysql.com/" target="_blank"><img src="https://www.cdnlogo.com/logos/m/78/mysql.svg" height="25px" width="25px"/> **MySQL**</a>: For Development Databases.
+
+### Development
+<a href="https://visualstudio.microsoft.com/vs" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="25px" width="25px"/> **Visual Studio**</a>: The IDE for All-Round C# development.
+
+<a href="https://vscode.dev/" target="_blank"><img src="https://www.cdnlogo.com/logos/v/82/visual-studio-code.svg" height="25px" width="25px"/> **VSCode**</a>: My preferred editor for code development.
+
+### Media
+<a href="https://ffmpeg.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/FFmpeg_icon.svg" height="25px" width="25px"/> **FFmpeg**</a>: Expertise in media transcoding.
+
+<a href="https://en.wikipedia.org/wiki/AV1" target="_blank"><img src="https://www.cdnlogo.com/logos/a/82/av1-2018.svg" height="25px" width="25px"/> **AV1**</a>: FFmpeg-Plugin Library for AV1 by the Alliance for Open Media.
+
+## Operating Systems
+I work across multiple operating systems, considering each Device has its own Use-case.
+
+<a href="https://lubuntu.me/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lubuntu_logo_only.svg/600px-Lubuntu_logo_only.svg.png" height="25px" width="25px"/> **Lubuntu**</a>: 23.10 STS-Release *(Laptop)*
+
+<a href="https://ubuntu.com/download/server" target="_blank"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38639/preview.svg" height="25px" width="25px"/> **Ubuntu Server**</a>: 22.04 LTS-Release *(Server)*
+
+<a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="25px" width="25px"/> **Windows 11 Enterprise**</a>: 23H2 *(Desktop)*
+
+## Latest Advancements
+- Automated Media Transcoding from **HEVC** to **AV1**, including preservation of **HDR10+**.
+- Custom Docker Intra-Net Bridge Driver.
+- **FlightSim** written in **Lua** for **FiveM**.
+- Containerizing self-written Applications.
+- Configuration of **Traefik** for **SSL** Certificates, including **HSTS**, **CAA**, **TLS 1.3**, **SNI**.
 
 
 
-<br>
-
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently advancing in: **[Lua](https://lua.org)**
-
-- 🌱 My main focus lies within: **Swift / Lua / C# / XAML / MySQL** on **Windows / Ubuntu 22.04 LTS**
-
-## 🚀 Languages and Tools:
-
-<p align="center">
-    <a href="https://developer.mozilla.org/docs/Web/JavaScript/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://developer.mozilla.org/docs/Web/HTML/" target="_blank">
-        <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://developer.mozilla.org/docs/Web/CSS/" target="_blank">
-        <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://www.lua.org/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/l/50/lua.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/c/27/c.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://ubuntu.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/u/89/ubuntu.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://swift.org/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/s/13/swift.svg", height="50px", width="50px"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://stackoverflow.com" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/s/63/stack-overflow.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://img.icons8.com/fluency/512/docker.png", height="50px", width="50px"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/v/82/visual-studio-code.svg", height="50px", width="50px"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://static.cdnlogo.com/logos/m/78/mysql.svg", height="50px", width="50px"/>
-    </a>
-</p>
-
-<br/>
-
-<p align="center">
-    <a href="https://github.com/ItzCelyrian/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ItzCelyrian's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ItzCelyrian&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-<p align="center">
-    <a href="https://github.com/ItzCelyrian/github-readme-stats"><img alt="ItzCelyrian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItzCelyrian&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
-  <a href="https://github.com/ItzCelyrian/github-readme-stats"><img alt="ItzCelyrian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzCelyrian&langs_count=8&layout=compact&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-    <br/><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-<br/>
-
-<p align=center>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItzCelyrian&theme=github_dark) 
-
-</p>
-
-<br/>
-<br/>
-
-<p align="center">
- <i><b>Have a Nice day, here is some cake. 🍰</b></i>
-</p>
-</p>
+#### Have a great day! 🍰
