@@ -13,7 +13,7 @@ I have a diverse set of tools and languages at my disposal, which include:
 
 <a href="https://lua.org/" target="_blank"><img src="https://www.cdnlogo.com/logos/l/50/lua.svg" height="25px" width="25px"/> **Lua**</a>: Specializing in FiveM scripting.
 
-<a href="https://www.python.org/" target="_blank"><img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="25px" width="25px"/> **Python**</a>: Python-Scripting for Diffusing.
+<a href="https://www.python.org/" target="_blank"><img src="https://www.cdnlogo.com/logos/p/3/python.svg" height="25px" width="25px"/> **Python**</a>: Python-Scripting for *<a href="https://en.wikipedia.org/wiki/Diffusion_model" target="_blank">Diffusion</a>*.
 
 <a href="https://swift.org/" target="_blank"><img src="https://static.cdnlogo.com/logos/s/13/swift.svg" height="25px" width="25px"/> **Swift**</a>: Building robust iOS applications.
 
