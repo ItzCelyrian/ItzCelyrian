@@ -1,7 +1,7 @@
 # ItzCelyrian's Developer Profile
 
 ## About Me
-Hello! My name is ItzCelyrian. I'm a dedicated developer primarily focused on Fivem/FXServer projects. My expertise lies in Lua, and I'm currently advancing my skills in <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://www.cdnlogo.com/logos/b/67/blazor.svg" height="25px" width="25px"/> **Blazor**</a>
+Hello! My name is ItzCelyrian. I'm a dedicated developer primarily focused on Software projects. My expertise lies in Lua and C#, and I'm currently advancing my skills in <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://www.cdnlogo.com/logos/b/67/blazor.svg" height="25px" width="25px"/> **Blazor**</a>
 
 ## Skills and Tools
 I have a diverse set of tools and languages at my disposal, which include:
