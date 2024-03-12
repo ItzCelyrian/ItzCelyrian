@@ -1,7 +1,7 @@
 # ItzCelyrian's Developer Profile
 
 ## About Me
-Hello! My name is ItzCelyrian. I'm a dedicated developer primarily focused on Fivem/FXServer projects. My expertise lies in Lua, and I'm currently advancing my skills in Lua (FiveM) and MariaDB.
+Hello! My name is ItzCelyrian. I'm a dedicated developer primarily focused on Fivem/FXServer projects. My expertise lies in Lua, and I'm currently advancing my skills in <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://www.cdnlogo.com/logos/b/67/blazor.svg" height="25px" width="25px"/> **Blazor**</a>
 
 ## Skills and Tools
 I have a diverse set of tools and languages at my disposal, which include:
@@ -10,6 +10,8 @@ I have a diverse set of tools and languages at my disposal, which include:
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.cdnlogo.com/logos/b/31/bash.svg" height="25px" width="25px"/> **Bash**</a>: UNIX Terminal Scripting.
 
 <a href="https://dotnet.microsoft.com/en-us/download/dotnet/8.0" target="_blank"><img src="https://www.cdnlogo.com/logos/c/27/c.svg" height="25px" width="25px"/> **C#**</a>: Windows Desktop Applications.
+
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank"><img src="https://www.cdnlogo.com/logos/b/67/blazor.svg" height="25px" width="25px"/> **Blazor**</a>: C# Web-Applications.
 
 <a href="https://lua.org/" target="_blank"><img src="https://www.cdnlogo.com/logos/l/50/lua.svg" height="25px" width="25px"/> **Lua**</a>: Specializing in FiveM scripting.
 
