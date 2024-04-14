@@ -51,11 +51,11 @@ I have a diverse set of tools and languages at my disposal, which include:
 <a href="https://en.wikipedia.org/wiki/AV1" target="_blank"><img src="https://www.cdnlogo.com/logos/a/82/av1-2018.svg" height="25px" width="25px"/> **AV1**</a>: FFmpeg-Plugin Library for AV1 by the Alliance for Open Media.
 
 ## Operating Systems
-I work across multiple operating systems, considering each Device has its own Use-case.
-
-<a href="https://lubuntu.me/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lubuntu_logo_only.svg/600px-Lubuntu_logo_only.svg.png" height="25px" width="25px"/> **Lubuntu**</a>: 23.10 STS-Release *(Laptop)*
+I work across multiple operating systems.
 
 <a href="https://www.debian.org/CD/http-ftp" target="_blank"><img src="https://www.cdnlogo.com/logos/d/45/debian.svg" height="25px" width="25px"/> **Debian Server**</a>: 12.5 Bookworm *(Server)*
+
+<a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="25px" width="25px"/> **Windows 11 Enterprise**</a>: 23H2 *(Laptop)*
 
 <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="25px" width="25px"/> **Windows 11 Enterprise**</a>: 23H2 *(Desktop)*
 
