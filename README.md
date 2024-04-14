@@ -55,7 +55,7 @@ I work across multiple operating systems, considering each Device has its own Us
 
 <a href="https://lubuntu.me/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lubuntu_logo_only.svg/600px-Lubuntu_logo_only.svg.png" height="25px" width="25px"/> **Lubuntu**</a>: 23.10 STS-Release *(Laptop)*
 
-<a href="https://ubuntu.com/download/server" target="_blank"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38639/preview.svg" height="25px" width="25px"/> **Ubuntu Server**</a>: 22.04 LTS-Release *(Server)*
+<a href="https://www.debian.org/CD/http-ftp" target="_blank"><img src="https://www.cdnlogo.com/logos/d/45/debian.svg" height="25px" width="25px"/> **Debian Server**</a>: 12.5 Bookworm *(Server)*
 
 <a href="https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-11.svg" height="25px" width="25px"/> **Windows 11 Enterprise**</a>: 23H2 *(Desktop)*
 
